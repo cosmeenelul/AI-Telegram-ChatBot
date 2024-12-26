@@ -64,7 +64,7 @@ Utilizatorul poate scrie comanda `/start` pentru a iniția conversația. Bot-ul 
   3. Interstellar
   ```
 ---
-Daca botul este hostat si activ , il poti accesa de aici [Telegram link]([https://t.me/AI_OldMoviesBot]).
+Daca botul este hostat si activ , il poti accesa de aici [Telegram link](https://t.me/AI_OldMoviesBot).
 
 # EN LANGUAGE : 
 # Movie Recommendation ChatBot
@@ -114,6 +114,6 @@ Users can type the `/start` command to initiate a conversation. The bot provides
 - **Input Preferences:**
 
 ## Link to the Bot
-If the bot is hosted and available, you can access it via this [Telegram link]([https://t.me/AI_OldMoviesBot]).
+If the bot is hosted and available, you can access it via this [Telegram link](https://t.me/AI_OldMoviesBot).
 
 
