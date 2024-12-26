@@ -2,7 +2,7 @@
 This is a machine learning project based on Tensorflow , Keras and SkLearn.
 
 
-# RO LANGUAGE : 🇷🇴 :
+# RO LANGUAGE :
 # ChatBot de recomandare a filmelor
 
 <img alt="pic1" src="https://github.com/user-attachments/assets/c9a81750-a63e-4326-b464-b61d7565b88b" />
