@@ -64,7 +64,56 @@ Utilizatorul poate scrie comanda `/start` pentru a iniția conversația. Bot-ul 
   3. Interstellar
   ```
 ---
+Daca botul este hostat si activ , il poti accesa de aici [Telegram link]([https://t.me/AI_OldMoviesBot]).
 
+# EN LANGUAGE : 
+# Movie Recommendation ChatBot
 
+An AI-powered ChatBot designed to recommend movies to users based on their preferences. The project leverages various Machine Learning technologies and integrates with Telegram for a user-friendly interface.
+
+## Features
+- **Telegram Interface**: The ChatBot can be accessed on any Telegram-compatible device.
+- **Personalized Recommendations**: Recommends movies based on user preferences and data from similar users.
+- **Trained AI Model**: Uses a neural network to predict user ratings for movies.
+
+## Technologies Used
+1. **Python**: The primary programming language used for implementation.
+2. **Python Libraries**:
+   - **Pandas**: For processing and managing datasets.
+   - **Numpy**: For creating and manipulating numerical vectors.
+   - **TensorFlow/Keras**: For training the recommendation model.
+   - **Scikit-learn**: For splitting the data into training and testing sets.
+   - **Telegram API**: For integrating the ChatBot with Telegram.
+
+## How It Works
+### 1. Telegram Interface
+Users can type the `/start` command to initiate a conversation. The bot provides instructions on how to input data (e.g., `Movie_Name Rating`).
+
+### 2. Preference Processing
+- The bot validates the input data (ratings between 1-5).
+- It checks if the movies exist in the dataset and prepares the data for the AI model.
+
+### 3. AI Model
+- **Architecture**: A neural network with embedding layers for users and movies.
+- **Training**: The data is transformed into TensorFlow datasets and used to train the model.
+- **Recommendations**: The model predicts ratings for movies, and the top 10 movies with the highest scores are recommended to the user.
+
+## How to Use
+1. **Setup**:
+   - Make sure all dependencies are installed: `pip install -r requirements.txt`.
+   - Create a bot on Telegram and obtain an API token.
+2. **Run**:
+   - Execute the main script: `python main.py`.
+   - Enter the `/start` command in the bot's chat to begin.
+3. **Input Preferences**:
+   - Send a list of movies and ratings, one per line, in the format: `Movie_Name Rating`.
+   - The bot will process the data and provide a personalized recommendation list.
+
+## Example Usage
+- **Start:** `/start`
+- **Input Preferences:**
+
+## Link to the Bot
+If the bot is hosted and available, you can access it via this [Telegram link]([https://t.me/AI_OldMoviesBot]).
 
 
