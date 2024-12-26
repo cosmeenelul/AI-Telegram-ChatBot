@@ -60,7 +60,7 @@ Utilizatorul poate scrie comanda `/start` pentru a iniția conversația. Bot-ul 
   ```
 ---
 
-<img width="700" height="400" alt="pic1" src="https://github.com/user-attachments/assets/c9a81750-a63e-4326-b464-b61d7565b88b" />
-<img width="468" alt="pic2" src="https://github.com/user-attachments/assets/2c1cd812-6e22-4086-9987-679a1ad2b79a" />
+<img alt="pic1" src="https://github.com/user-attachments/assets/c9a81750-a63e-4326-b464-b61d7565b88b" />
+<img alt="pic2" src="https://github.com/user-attachments/assets/2c1cd812-6e22-4086-9987-679a1ad2b79a" />
 
 
