@@ -1,6 +1,7 @@
 # AI-Telegram-Bot
-   **Go to the master branch for the source code.**
-   **This is a machine learning project based on Tensorflow , Keras and SkLearn.**
+Go to the master branch for the source code.
+This is a machine learning project based on TensorFlow, Keras, and SkLearn.
+
 
 # RO LANGUAGE :
 # ChatBot de recomandare a filmelor
