@@ -1,6 +1,5 @@
 # AI-Telegram-Bot
 **GO TO MASTER BRANCH FOR THE SOURCE CODE**
-This is a machine learning project based on TensorFlow, Keras, and SkLearn.
 
 
 # RO LANGUAGE :
